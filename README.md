@@ -1,6 +1,6 @@
 
 <h2 style="letter-spacing: 2px">Hi, I'm Daniel!</h2>
-<p style="font-size: 14px; letter-spacing: 3px">A true knowledge lover, always looking to learn more and share information. Working with frontend development since 2016. I've been through some companies like fintech, e-commerce, green coffee trading platform, field team management, all using javascript ecosytem. 
+<p style="font-size: 14px; letter-spacing: 3px">A true knowledge lover, always looking to learn more and share information. Working with frontend development since 2016. I've been through some companies like fintech, e-commerce, green coffee trading platform, field team management, all using javascript ecosystem. 
 </em></p>
 
 </br> 
