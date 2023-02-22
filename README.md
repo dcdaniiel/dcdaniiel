@@ -12,5 +12,6 @@
     <a href="https://github.com/dcdaniiel"><img width="25px" src="https://unpkg.com/simple-icons@latest/icons/github.svg" alt="GitHub" title="GitHub"></a>
     <a href="https://www.instagram.com/dc.daniiel/"><img width="25px" src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" alt="Instagram" title="Instagram"></a>
     <a  href="https://twitter.com/dc_daniiel"><img width="25px" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" alt="Twitter" title="Twitter"></a>
+    <a  href="https://www.canva.com/design/DAFbPfkrXsQ/Iv9Xus-UUSmu7z_LlIyclA/view?utm_content=DAFbPfkrXsQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img width="25px" src="https://unpkg.com/simple-icons@latest/icons/canva.svg" alt="Resume CV" title="Resume CV"></a>
 </div>
 </main>
