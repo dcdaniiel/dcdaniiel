@@ -26,7 +26,7 @@ running in production against real APIs and business workflows. I care about wha
 makes AI work in production: architecture, reliability, observability, evaluation,
 latency, and cost.
 
-- 🔭 Currently at **Galaxies** — shipped the company's first production **Agentic AI platform** (Nexus Agent: synthetic-persona orchestration for creative analysis & simulation)
+- 🔭 **Galaxies** — shipped the company's first production **Agentic AI platform** (Nexus Agent: synthetic-persona orchestration for creative analysis & simulation)
 - 🧪 Side project: [**Attune**](https://github.com/dcdaniiel/Attune) — an adaptive learning engine that tunes content difficulty to a learner's cognitive load in real time
 - 🌱 Into: multi-agent systems, LLM evaluation & reliability, developer platforms
 - 💬 Ask me about: agentic architecture, backend & distributed systems, AWS
