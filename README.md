@@ -12,7 +12,7 @@
  
 - **AI agents end to end** — LLM orchestration with tool use, human-in-the-loop confirmation and guardrails, on top of deterministic engines that own every number. Google ADK, Gemini on Vertex AI, BigQuery, Cloud Run.
 - **Credit and fintech in Brazil** — ML and AI applied to credit operations, from data pipelines to the product in the customer's hands.
-- **Product engineering background** — Python and Node.js since 2018; React on the front end; previously Staff Software Engineer at Galaxies Ventures (synthetic personas with LLM agents).
+- **Product engineering background** — Python and Node.js since 2018; React on the front end; previously Staff Software Engineer at Galaxies (synthetic personas with LLM agents).
 ### Latest: zera.ai — 1st place, Batalha de Agentes (Sep 2026)
  
 <a href="https://github.com/dcdaniiel/zera.ai-itau"><img src="https://github.com/dcdaniiel/zera.ai-itau/blob/main/docs/img/banner.jpg" alt="Batalha de Agentes — an Itaú initiative in partnership with Google Cloud and Santo Digital — 1st place: zera.ai" width="50%"></a>
